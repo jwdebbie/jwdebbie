@@ -2,6 +2,23 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=timeGradient&text=Welcome%20to%20Joowon's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=33&fontAlign=50&height=250" />
 </p>
 
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/jwdebbie/github-stats-transparent">
+        <img src="https://github.com/jwdebbie/github-stats-transparent/raw/output/generated/overview.svg" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/jwdebbie/github-stats-transparent">
+        <img src="https://github.com/jwdebbie/github-stats-transparent/raw/output/generated/languages.svg" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
 <h3 align="center">📚 Tech Stack 📚</h3>
 
 <p align="center">
