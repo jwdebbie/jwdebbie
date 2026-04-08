@@ -11,7 +11,7 @@
     </td>
     <td>
       <a href="https://github.com/jwdebbie/github-stats-transparent">
-        <img src="https://github.com/jwdebbie/github-stats-transparent/raw/output/generated/languages.svg" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/ username=jwdebbie&hide=jupyter%20notebook&layout=compact&langs_count=6&theme=dark" />
       </a>
     </td>
   </tr>
