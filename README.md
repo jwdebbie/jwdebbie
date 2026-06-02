@@ -26,51 +26,90 @@
 ---
 
 <h3 align="center"> 🍒 Research & Projects</h3>
-<table align="center" width="720">
-    <tr>
-    <td><b>Multi-Agent LLM-based Quantitative Investment Analysis (~ing) </b></td>
-    <td><code>2026 </code></td>
-    <td><a href="https://github.com/jwdebbie/quant-ai-server"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
-  </tr>
+<table width="100%">
   <tr>
-    <td><b>CLIP Score-based Synthetic Data Quality Filtering</b></td>
+    <td><b>Multi-Agent LLM-based Quantitative Investment Analysis (~ing)</b></td>
+    <td align="right"><a href="https://github.com/jwdebbie/quant-ai-server"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
     <td><code>2026</code></td>
-    <td><a href="https://github.com/jwdebbie/Clip-Data-Curation"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+    <td>
+    <img src="https://img.shields.io/badge/LangGraph-2E8B57?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Multi--Agent-2E8B57?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Sentiment Analysis-2E8B57?style=flat-square&logoColor=white"/>
+    </td>
   </tr>
   <tr>
     <td><b>Long-Tail Synthetic Augmentation Experiments</b></td>
+    <td align="right"><a href="https://github.com/jwdebbie/Longtail-Synthetic-Augmentation"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
     <td><code>2026</code></td>
-    <td><a href="https://github.com/jwdebbie/Longtail-Synthetic-Augmentation"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+    <td>
+    <img src="https://img.shields.io/badge/CV-4A90D9?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Synthetic Data-4A90D9?style=flat-square&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>CLIP Score-based Synthetic Data Quality Filtering</b></td>
+    <td align="right"><a href="https://github.com/jwdebbie/Clip-Data-Curation"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+    <td><code>2026</code></td>
+    <td>
+    <img src="https://img.shields.io/badge/CV-4A90D9?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Synthetic Data-4A90D9?style=flat-square&logoColor=white"/>
+    </td>
   </tr>
   <tr>
     <td><b>Personalized Hiking Activity Analysis for Meta-Learning</b></td>
+    <td align="right"><a href="https://github.com/jwdebbie/agi_hiking"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
     <td><code>2026</code></td>
-    <td><a href="https://github.com/jwdebbie/agi_hiking"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+    <td>
+    <img src="https://img.shields.io/badge/Meta--Learning-E8834A?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Personalization-E8834A?style=flat-square&logoColor=white"/>
+    </td>
   </tr>
   <tr>
     <td><b>Boundary-Artifact Analysis for High-Fidelity Deepfake Detection</b></td>
+    <td align="right"><a href="https://github.com/jwdebbie/Faceswap-Detection"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
     <td><code>2025</code></td>
-    <td><a href="https://github.com/jwdebbie/Faceswap-Detection"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+    <td>
+    <img src="https://img.shields.io/badge/CV-4A90D9?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Forensics-4A90D9?style=flat-square&logoColor=white"/>
+    </td>
   </tr>
   <tr>
     <td><b>Robust Knife Recognition in CCTV Environments</b> · <i>MITA 2025, 1st author</i></td>
+    <td align="right"><a href="https://github.com/jwdebbie/Robustness-Research"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
     <td><code>2025</code></td>
-    <td><a href="https://github.com/jwdebbie/Robustness-Research"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+    <td>
+    <img src="https://img.shields.io/badge/CV-4A90D9?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Robustness-4A90D9?style=flat-square&logoColor=white"/>
+    </td>
   </tr>
   <tr>
     <td><b>Safety-Critical LLM Pipeline for Abusive Call Detection</b> · <i>Outstanding Project</i></td>
-    <td><code>2025</code></td>
     <td></td>
+    <td><code>2025</code></td>
+    <td>
+    <img src="https://img.shields.io/badge/RAG-2E8B57?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Agentic Pipeline-2E8B57?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Safety--Critical-E8834A?style=flat-square&logoColor=white"/>
+    </td>
   </tr>
   <tr>
     <td><b>AI-Based Presentation Coaching "발표HAI"</b> · <i>LIKELION Ideathon, Excellence Award</i></td>
-    <td><code>2025</code></td>
     <td></td>
+    <td><code>2025</code></td>
+    <td>
+    <img src="https://img.shields.io/badge/STT-7B5EA7?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Multimodal-7B5EA7?style=flat-square&logoColor=white"/>
+    </td>
   </tr>
   <tr>
     <td><b>Emotion-Controlled Diary Generation</b> · <i>Naver AI RUSH 2024, Best Model Tuning Award</i></td>
-    <td><code>2024</code></td>
     <td></td>
+    <td><code>2024</code></td>
+    <td>
+    <img src="https://img.shields.io/badge/HyperClovaX-2E8B57?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Multimodal-7B5EA7?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Prompt Eng.-2E8B57?style=flat-square&logoColor=white"/>
+    </td>
   </tr>
 </table>
 
