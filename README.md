@@ -27,15 +27,15 @@
 
 <h3 align="center"> 🍒 Research & Projects</h3>
 <table align="center" width="720">
+    <tr>
+    <td><b>CLIP Score-based Synthetic Data Quality Filtering</b></td>
+    <td><code>2026</code></td>
+    <td><a href="https://github.com/jwdebbie/Clip-Data-Curation"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
+  </tr>
   <tr>
     <td><b>Long-Tail Synthetic Augmentation Experiments</b></td>
     <td><code>2026</code></td>
     <td><a href="https://github.com/jwdebbie/Longtail-Synthetic-Augmentation"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
-  </tr>
-  <tr>
-    <td><b>CLIP Score-based Synthetic Data Quality Filtering</b></td>
-    <td><code>2026</code></td>
-    <td><a href="https://github.com/jwdebbie/Clip-Data-Curation"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
   </tr>
   <tr>
     <td><b>Personalized Hiking Activity Analysis for Meta-Learning</b></td>
