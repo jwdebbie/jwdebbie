@@ -37,31 +37,47 @@
 
 ---
 
-<h3 align="center">🔬 Research & Projects</h3>
+<h3 align="center">Research & Projects</h3>
 <table align="center" width="720">
   <tr>
-    <td>📌 Long-Tail Synthetic Augmentation Experiments (CIFAR-10/100)</td>
+    <td><b>Long-Tail Synthetic Augmentation Experiments</b></td>
+    <td><code>2026</code></td>
+    <td><a href="https://github.com/jwdebbie/Longtail-Synthetic-Augmentation"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
   </tr>
   <tr>
-    <td>📌 CLIP Score-based Synthetic Data Quality Filtering</td>
+    <td><b>CLIP Score-based Synthetic Data Quality Filtering</b></td>
+    <td><code>2026</code></td>
+    <td><a href="https://github.com/jwdebbie/Clip-Data-Curation"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
   </tr>
   <tr>
-    <td>📌 Robust Knife Recognition in CCTV Environments · <i>MITA 2025, 1st author</i></td>
+    <td><b>Personalized Hiking Activity Analysis for Meta-Learning</b></td>
+    <td><code>2026</code></td>
+    <td><a href="https://github.com/jwdebbie/agi_hiking"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
   </tr>
   <tr>
-    <td>📌 Boundary-Artifact Analysis for High-Fidelity Deepfake Detection <i></i></td>
+    <td><b>Boundary-Artifact Analysis for High-Fidelity Deepfake Detection</b></td>
+    <td><code>2025</code></td>
+    <td><a href="https://github.com/jwdebbie/Faceswap-Detection"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
   </tr>
   <tr>
-    <td>📌 Personalized Hiking Activity Analysis for Meta-Learning</td>
+    <td><b>Robust Knife Recognition in CCTV Environments</b> · <i>MITA 2025, 1st author</i></td>
+    <td><code>2025</code></td>
+    <td><a href="https://github.com/jwdebbie/Robustness-Research"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
   </tr>
   <tr>
-    <td>🏆 Safety-Critical LLM Pipeline for Abusive Call Detection · <i>Outstanding Project</i></td>
+    <td><b>Safety-Critical LLM Pipeline for Abusive Call Detection</b> · <i>Outstanding Project</i></td>
+    <td><code>2025</code></td>
+    <td></td>
   </tr>
   <tr>
-    <td>🏆 Emotion-Controlled Diary Generation · <i>Naver AI RUSH 2024, Best Model Tuning Award</i></td>
+    <td><b>AI-Based Presentation Coaching "발표HAI"</b> · <i>LIKELION Ideathon, Excellence Award</i></td>
+    <td><code>2025</code></td>
+    <td></td>
   </tr>
   <tr>
-    <td>🏆 AI-Based Presentation Coaching "발표HAI" · <i>LIKELION Ideathon, Excellence Award</i></td>
+    <td><b>Emotion-Controlled Diary Generation</b> · <i>Naver AI RUSH 2024, Best Model Tuning Award</i></td>
+    <td><code>2024</code></td>
+    <td></td>
   </tr>
 </table>
 
