@@ -5,7 +5,7 @@
 <p align="center">
   Passionate about AI that reliably perceives and acts in the real world 🌍<br/>
   Robust Perception · Embodied & Agentic AI · Continual Learning · Domain Adaptation<br/><br/>
-  <a href="https://velog.io/@joowoni/posts">📝 Velog</a>
+  <sub>B.S. AI Engineering @ Sookmyung Women's University · TOEIC 945 · <a href="https://velog.io/@joowoni/posts">📝 Velog</a></sub>
 </p>
 
 <table align="center">
@@ -25,19 +25,7 @@
 
 ---
 
-<h3 align="center">🏫 Research Experience</h3>
-<table align="center" width="720">
-  <tr>
-    <td>ComputerVision Lab, Korea University · <i>Undergraduate Researcher</i> · Present</td>
-  </tr>
-  <tr>
-    <td>AGI Lab, Sookmyung Women's University · <i>Undergraduate Researcher</i> · Apr 2025 – Feb 2026</td>
-  </tr>
-</table>
-
----
-
-<h3 align="center">Research & Projects</h3>
+<h3 align="center"> 🍒 Research & Projects</h3>
 <table align="center" width="720">
   <tr>
     <td><b>Long-Tail Synthetic Augmentation Experiments</b></td>
