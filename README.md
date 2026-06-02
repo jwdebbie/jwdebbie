@@ -71,7 +71,7 @@
 
 ---
 
-<h3 align="center">📄 Publications</h3>
+<h3 align="center"> 🍪 Publications</h3>
 <table align="center" width="720">
   <tr>
     <td>[1] <b>Joowon Lee</b> et al., "Knife Classification Under Environmental Variations Using CNN Models," <i>MITA 2025</i> · 1st author, Oral</td>
