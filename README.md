@@ -32,9 +32,9 @@
     <td align="right"><a href="https://github.com/jwdebbie/quant-ai-server"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
     <td><code>2026</code></td>
     <td>
-    <img src="https://img.shields.io/badge/LangGraph-2E8B57?style=flat-square&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Multi--Agent-2E8B57?style=flat-square&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Sentiment Analysis-2E8B57?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LangGraph-3A7D5A?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Multi--Agent-3A7D5A?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Sentiment Analysis-3A7D5A?style=flat-square&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -42,8 +42,8 @@
     <td align="right"><a href="https://github.com/jwdebbie/Longtail-Synthetic-Augmentation"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
     <td><code>2026</code></td>
     <td>
-    <img src="https://img.shields.io/badge/CV-4A90D9?style=flat-square&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Synthetic Data-4A90D9?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CV-2E6DA4?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Synthetic Data-2E6DA4?style=flat-square&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -51,8 +51,8 @@
     <td align="right"><a href="https://github.com/jwdebbie/Clip-Data-Curation"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
     <td><code>2026</code></td>
     <td>
-    <img src="https://img.shields.io/badge/CV-4A90D9?style=flat-square&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Synthetic Data-4A90D9?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CV-2E6DA4?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Synthetic Data-2E6DA4?style=flat-square&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -60,8 +60,8 @@
     <td align="right"><a href="https://github.com/jwdebbie/agi_hiking"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
     <td><code>2026</code></td>
     <td>
-    <img src="https://img.shields.io/badge/Meta--Learning-E8834A?style=flat-square&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Personalization-E8834A?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Meta--Learning-8A4A6A?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Personalization-8A4A6A?style=flat-square&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -69,8 +69,8 @@
     <td align="right"><a href="https://github.com/jwdebbie/Faceswap-Detection"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
     <td><code>2025</code></td>
     <td>
-    <img src="https://img.shields.io/badge/CV-4A90D9?style=flat-square&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Forensics-4A90D9?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CV-2E6DA4?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Forensics-2E6DA4?style=flat-square&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -78,8 +78,8 @@
     <td align="right"><a href="https://github.com/jwdebbie/Robustness-Research"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
     <td><code>2025</code></td>
     <td>
-    <img src="https://img.shields.io/badge/CV-4A90D9?style=flat-square&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Robustness-4A90D9?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CV-2E6DA4?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Robustness-2E6DA4?style=flat-square&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -87,9 +87,9 @@
     <td></td>
     <td><code>2025</code></td>
     <td>
-    <img src="https://img.shields.io/badge/RAG-2E8B57?style=flat-square&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Agentic Pipeline-2E8B57?style=flat-square&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Safety--Critical-E8834A?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/RAG-3A7D5A?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Agentic Pipeline-3A7D5A?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Safety--Critical-8A4A6A?style=flat-square&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -97,8 +97,8 @@
     <td></td>
     <td><code>2025</code></td>
     <td>
-    <img src="https://img.shields.io/badge/STT-7B5EA7?style=flat-square&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Multimodal-7B5EA7?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/STT-5B4A8A?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Multimodal-5B4A8A?style=flat-square&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -106,9 +106,9 @@
     <td></td>
     <td><code>2024</code></td>
     <td>
-    <img src="https://img.shields.io/badge/HyperClovaX-2E8B57?style=flat-square&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Multimodal-7B5EA7?style=flat-square&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Prompt Eng.-2E8B57?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HyperClovaX-3A7D5A?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Multimodal-5B4A8A?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Prompt Eng.-3A7D5A?style=flat-square&logoColor=white"/>
     </td>
   </tr>
 </table>
