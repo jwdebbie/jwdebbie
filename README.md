@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  Passionate about AI that reliably perceives and acts in the real world 🌍<br/>
-  Robust Perception · Embodied & Agentic AI · Continual Learning · Domain Adaptation<br/><br/>
+  Building AI that stays reliable when conditions change — from robustness research to real-world data pipelines 🌍<br/>
+  Robust Perception · Reliable AI Systems · Agentic Pipelines · Domain Adaptation<br/><br/>
   <sub>B.S. AI Engineering @ Sookmyung Women's University · TOEIC 945 · <a href="https://velog.io/@joowoni/posts">📝 Velog</a></sub>
 </p>
 
