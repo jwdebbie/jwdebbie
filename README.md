@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  Building AI that stays reliable when conditions change — from robustness research to real-world data pipelines 🌍<br/>
-  Robust Perception · Reliable AI Systems · Agentic Pipelines · Domain Adaptation<br/><br/>
+  I build AI systems that don't just work — they hold up when data gets messy or conditions shift 🌍<br/>
+  Data Pipeline Reliability · Anomaly Detection · Agentic AI · Applied Research<br/><br/>
   <sub>B.S. AI Engineering @ Sookmyung Women's University · TOEIC 945 · <a href="https://velog.io/@joowoni/posts">📝 Velog</a></sub>
 </p>
 
