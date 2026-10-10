@@ -5,7 +5,7 @@
 <p align="center">
   I build AI systems that don't just work — they hold up when data gets messy or conditions shift 🌍<br/>
   Data Pipeline Reliability · Anomaly Detection · Agentic AI · Applied Research<br/><br/>
-  <sub>B.S. AI Engineering @ Sookmyung Women's University · TOEIC 945 · TOEIC SPEAKING AL · HSK Level6 <a href="https://velog.io/@joowoni/posts">📝 Velog</a></sub>
+  <sub>B.S. AI Engineering @ Sookmyung Women's University · TOEIC 945 · TOEIC_Speaking AL · HSK Level6 <a href="https://velog.io/@joowoni/posts">📝 Velog</a></sub>
 </p>
 
 <table align="center">
