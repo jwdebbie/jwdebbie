@@ -120,7 +120,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>Emotion-Controlled Diary Generation</b> · <i>Naver AI RUSH 2024, Best Model Tuning Award</i></td>
+    <td><b>Emotion-Controlled Diary Generation</b> · <i>Naver AI RUSH' 2024, Best Model Tuning Award</i></td>
     <td align="right"><a href="https://github.com/jwdebbie/AIRUSH"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
     <td><code>2024</code></td>
     <td>
