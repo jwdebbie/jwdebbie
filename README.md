@@ -8,6 +8,10 @@
   <sub>B.S. AI Engineering @ Sookmyung Women's University · TOEIC 945 · TOEIC Speaking AL · HSK Level 6 · <a href="https://velog.io/@joowoni/posts">📝 Velog</a></sub>
 </p>
 
+<p align="center">
+  <b>English</b> | <a href="https://github.com/jwdebbie/jwdebbie/blob/main/README.ko.md">한국어</a>
+</p>
+
 <table align="center">
   <tr>
     <td>
