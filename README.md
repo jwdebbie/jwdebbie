@@ -34,7 +34,7 @@
 <h3 align="center">⭐ Featured Projects</h3>
 
 #### 🛡️ Worker-Protection AI for Abusive Customer Calls
-<sub><b>Azure Industry-Academia Project · Top Team (1 of 7)</b> · 2025 · <a href="https://github.com/team2321">GitHub</a></sub>
+<sub><b>Azure Industry-Academia Project</b> · 2025 · <a href="https://github.com/team2321">GitHub</a></sub>
 
 - **Problem** : Call-center workers need fast, grounded guidance on whether abusive speech is reportable.
 - **What I did** : Designed an STT → Content Safety → RAG → LLM pipeline with **severity-based branching**: low-severity calls exit early, higher ones retrieve worker-protection guidelines and judge reportability with few-shot prompting. Caught that Content Safety auto-masked profanity (`***`) and hid the aggression, then fixed it by retuning filter thresholds and enforcing structured JSON output.
