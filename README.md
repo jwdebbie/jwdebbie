@@ -68,6 +68,13 @@
 | **AI Presentation Coaching Service "발표HAI"** · *LIKELION Ideathon, Excellence Award* | STT · Multimodal | 2025 | |
 
 ---
+<h3 align="center">🎓 Education</h3>
+
+**B.S. in Artificial Intelligence Engineering, Sookmyung Women's University** · `2023.03 – Present`
+<br/>
+**Chinese Major, Gyeonggi Academy of Foreign Languages** · `2018.03 – 2021.01`
+
+---
 
 <h3 align="center">💼 Experience</h3>
 
