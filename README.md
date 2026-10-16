@@ -72,10 +72,10 @@
 <h3 align="center">💼 Experience</h3>
 
 **Undergraduate Researcher, CV Lab, Korea University** · `2026.03 – 2026.07`
-<br/><sub>VLM research team. Surveyed multi-agent self-evolution and Document VQA (MACT, Vision-Zero) and led lab paper presentations.</sub>
+<br/><sub>Long-tail recognition via CLIP-filtered synthetic data and LLM-guided regeneration; VLM self-evolution research.</sub>
 
 **Undergraduate Researcher, AGI Lab, Sookmyung Women's University** · `2025.04 – 2026.02`
-<br/><sub>Robust perception, deepfake detection, and meta-learning personalization research. Co-authored 4 papers at MITA 2025.</sub>
+<sub>Robust perception, deepfake detection, and meta-learning personalization (industry R&D with INavI Systems). 4 papers at MITA 2025, incl. 1 first-author oral.</sub>
 
 ---
 
