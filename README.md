@@ -25,6 +25,24 @@
 
 ---
 
+<h3 align="center"> 💼 Work Experience</h3>
+
+<p style="margin-bottom: 6px;"><b>Undergraduate Researcher</b></p>
+<ul style="margin-top: 0; padding-left: 20px;">
+  <li style="display: flex; justify-content: space-between; margin-bottom: 4px;">
+    <span><b>CV Lab</b>, Korea University</span>
+    <span><code>2026.03 - 2026.07</code></span>
+  </li>
+
+
+  <li style="display: flex; justify-content: space-between; margin-bottom: 4px;">
+    <span><b>AGI Lab</b>, Sookmyung Women's University</span>
+    <span><code>2025.04 - 2026.02</code></span>
+  </li>
+</ul>
+
+---
+
 <h3 align="center"> 🍒 Research & Projects</h3>
 <table width="100%">
   <tr>
@@ -103,7 +121,7 @@
   </tr>
   <tr>
     <td><b>Emotion-Controlled Diary Generation</b> · <i>Naver AI RUSH 2024, Best Model Tuning Award</i></td>
-    <td></td>
+    <td align="right"><a href="https://github.com/jwdebbie/AIRUSH"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
     <td><code>2024</code></td>
     <td>
     <img src="https://img.shields.io/badge/HyperClovaX-3A7D5A?style=flat-square&logoColor=white"/>
