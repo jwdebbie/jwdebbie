@@ -102,7 +102,7 @@
   </tr>
   <tr>
     <td><b>Safety-Critical LLM Pipeline for Abusive Call Detection</b> · <i>Outstanding Project</i></td>
-    <td></td>
+    <td align="right"><a href="https://github.com/team2321"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
     <td><code>2025</code></td>
     <td>
     <img src="https://img.shields.io/badge/RAG-3A7D5A?style=flat-square&logoColor=white"/>
