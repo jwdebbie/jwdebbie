@@ -8,7 +8,7 @@
 
 <p align="center">
   AI를 직접 만들고, <b>실제 환경에서 어디서 무너지는지</b> 검증하고, 그 결과를 누구나 판단할 수 있게 전달합니다 🌍<br/><br/>
-  <b>관심 분야</b> Physical AI · Vision-Language Model · Robust Perception · Agentic AI<br/>
+  <b>관심 분야</b> Physical AI · Robust Perception · Agentic AI<br/>
   <b>현재</b> AI 프로덕트 · 전략 · 엔지니어링 직무 탐색 중
 </p>
 
