@@ -8,7 +8,7 @@
 
 <p align="center">
   I build AI, test where it breaks in the real world, and explain it so people can act on it 🌍<br/><br/>
-  <b>Interested in</b> Physical AI · Vision-Language Models · Robust Perception · Agentic AI<br/>
+  <b>Interested in</b> Physical AI · Robust Perception · Agentic AI<br/>
   <b>Currently</b> exploring AI product, strategy, and engineering roles
 </p>
 
