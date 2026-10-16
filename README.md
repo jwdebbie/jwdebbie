@@ -28,7 +28,7 @@
 <h3 align="center"> 🍒 Research & Projects</h3>
 <table width="100%">
   <tr>
-    <td><b>Multi-Agent LLM-based Quantitative Investment Analysis (~ing)</b></td>
+    <td><b>Multi-Agent LLM-based Quantitative Investment Analysis</b></td>
     <td align="right"><a href="https://github.com/jwdebbie/quant-ai-server"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a></td>
     <td><code>2026</code></td>
     <td>
